@@ -1,0 +1,117 @@
+2018-03-13 03:29:47,554:INFO: Creating the dataset...
+2018-03-13 03:29:47,567:INFO: - done.
+2018-03-13 03:29:50,865:INFO: Starting evaluation
+2018-03-13 03:30:17,317:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-13 03:32:34,432:INFO: Creating the dataset...
+2018-03-13 03:32:34,434:INFO: - done.
+2018-03-13 03:32:34,695:INFO: Starting classification
+2018-03-13 03:34:51,367:INFO: Creating the dataset...
+2018-03-13 03:34:51,370:INFO: - done.
+2018-03-13 03:34:51,642:INFO: Starting classification
+2018-03-13 03:35:26,856:INFO: Creating the dataset...
+2018-03-13 03:35:26,857:INFO: - done.
+2018-03-13 03:35:27,108:INFO: Starting classification
+2018-03-13 03:35:48,514:INFO: Creating the dataset...
+2018-03-13 03:35:48,516:INFO: - done.
+2018-03-13 03:35:48,769:INFO: Starting classification
+2018-03-13 03:36:00,821:INFO: Creating the dataset...
+2018-03-13 03:36:00,823:INFO: - done.
+2018-03-13 03:36:01,084:INFO: Starting classification
+2018-03-13 03:36:14,262:INFO: Creating the dataset...
+2018-03-13 03:36:14,263:INFO: - done.
+2018-03-13 03:36:14,569:INFO: Starting classification
+2018-03-13 03:37:00,375:INFO: Creating the dataset...
+2018-03-13 03:37:00,376:INFO: - done.
+2018-03-13 03:37:00,653:INFO: Starting classification
+2018-03-13 03:37:16,015:INFO: Creating the dataset...
+2018-03-13 03:37:16,017:INFO: - done.
+2018-03-13 03:37:16,287:INFO: Starting classification
+2018-03-13 03:37:26,311:INFO: Creating the dataset...
+2018-03-13 03:37:26,312:INFO: - done.
+2018-03-13 03:37:26,610:INFO: Starting classification
+2018-03-13 03:37:37,143:INFO: Creating the dataset...
+2018-03-13 03:37:37,144:INFO: - done.
+2018-03-13 03:37:37,413:INFO: Starting classification
+2018-03-13 03:38:30,249:INFO: Creating the dataset...
+2018-03-13 03:38:30,250:INFO: - done.
+2018-03-13 03:38:30,615:INFO: Starting classification
+2018-03-13 03:38:53,743:INFO: Creating the dataset...
+2018-03-13 03:38:53,744:INFO: - done.
+2018-03-13 03:38:54,031:INFO: Starting classification
+2018-03-13 03:39:17,900:INFO: Creating the dataset...
+2018-03-13 03:39:17,902:INFO: - done.
+2018-03-13 03:39:18,149:INFO: Starting classification
+2018-03-13 03:39:35,173:INFO: Creating the dataset...
+2018-03-13 03:39:35,175:INFO: - done.
+2018-03-13 03:39:35,420:INFO: Starting classification
+2018-03-13 03:40:25,404:INFO: Creating the dataset...
+2018-03-13 03:40:25,407:INFO: - done.
+2018-03-13 03:40:25,695:INFO: Starting classification
+2018-03-13 03:40:41,896:INFO: Creating the dataset...
+2018-03-13 03:40:41,898:INFO: - done.
+2018-03-13 03:40:42,190:INFO: Starting classification
+2018-03-13 03:43:35,808:INFO: Creating the dataset...
+2018-03-13 03:43:35,811:INFO: - done.
+2018-03-13 03:43:36,064:INFO: Starting classification
+2018-03-13 03:43:46,890:INFO: Creating the dataset...
+2018-03-13 03:43:46,891:INFO: - done.
+2018-03-13 03:43:47,120:INFO: Starting classification
+2018-03-13 03:43:57,556:INFO: Creating the dataset...
+2018-03-13 03:43:57,557:INFO: - done.
+2018-03-13 03:43:57,820:INFO: Starting classification
+2018-03-13 03:44:13,337:INFO: Creating the dataset...
+2018-03-13 03:44:13,338:INFO: - done.
+2018-03-13 03:44:13,642:INFO: Starting classification
+2018-03-13 03:44:51,078:INFO: Creating the dataset...
+2018-03-13 03:44:51,081:INFO: - done.
+2018-03-13 03:44:51,415:INFO: Starting classification
+2018-03-13 03:46:03,203:INFO: Creating the dataset...
+2018-03-13 03:46:03,205:INFO: - done.
+2018-03-13 03:46:03,450:INFO: Starting classification
+2018-03-14 09:29:52,151:INFO: Creating the dataset...
+2018-03-14 09:29:52,164:INFO: - done.
+2018-03-14 09:29:54,615:INFO: Starting evaluation
+2018-03-14 09:30:07,184:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-14 09:30:13,849:INFO: Creating the dataset...
+2018-03-14 09:30:13,862:INFO: - done.
+2018-03-14 09:30:14,061:INFO: Starting evaluation
+2018-03-14 09:30:25,840:INFO: - Eval metrics : accuracy: 0.898 ; loss: 0.394
+2018-03-14 09:31:01,914:INFO: Creating the dataset...
+2018-03-14 09:31:01,915:INFO: - done.
+2018-03-14 09:31:02,114:INFO: Starting classification
+2018-03-14 09:53:08,784:INFO: Creating the dataset...
+2018-03-14 09:53:08,797:INFO: - done.
+2018-03-14 09:53:11,220:INFO: Starting evaluation
+2018-03-14 09:53:23,588:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-14 10:08:11,618:INFO: Creating the dataset...
+2018-03-14 10:08:11,631:INFO: - done.
+2018-03-14 10:08:11,832:INFO: Starting evaluation
+2018-03-14 10:08:23,521:INFO: - Eval metrics : accuracy: 0.898 ; loss: 0.394
+2018-03-16 20:54:29,089:INFO: Creating the dataset...
+2018-03-16 20:54:29,128:INFO: - done.
+2018-03-16 20:54:32,613:INFO: Starting evaluation
+2018-03-16 20:54:48,290:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-16 20:57:38,342:INFO: Creating the dataset...
+2018-03-16 20:57:38,381:INFO: - done.
+2018-03-16 20:57:38,583:INFO: Starting evaluation
+2018-03-16 20:57:51,923:INFO: - Eval metrics : accuracy: 0.898 ; loss: 0.394
+2018-03-18 10:03:58,811:INFO: Creating the dataset...
+2018-03-18 10:03:58,852:INFO: - done.
+2018-03-18 10:04:02,683:INFO: Starting evaluation
+2018-03-18 10:04:18,391:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-18 10:20:09,098:INFO: Creating the dataset...
+2018-03-18 10:20:09,112:INFO: - done.
+2018-03-18 10:20:11,829:INFO: Starting evaluation
+2018-03-18 10:20:24,047:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-18 10:22:34,380:INFO: Creating the dataset...
+2018-03-18 10:22:34,394:INFO: - done.
+2018-03-18 10:22:37,133:INFO: Starting evaluation
+2018-03-18 10:22:49,332:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-18 10:25:53,997:INFO: Creating the dataset...
+2018-03-18 10:25:54,011:INFO: - done.
+2018-03-18 10:25:56,714:INFO: Starting evaluation
+2018-03-18 10:26:08,873:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
+2018-03-18 10:30:54,326:INFO: Creating the dataset...
+2018-03-18 10:30:54,341:INFO: - done.
+2018-03-18 10:30:57,056:INFO: Starting evaluation
+2018-03-18 10:31:09,285:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546

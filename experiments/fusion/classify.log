@@ -1,0 +1,7 @@
+2018-03-15 18:06:12,874:INFO: Creating the dataset...
+2018-03-15 18:06:12,877:INFO: - done.
+2018-03-15 18:06:16,170:INFO: Starting classification
+2018-03-15 18:06:38,279:INFO: Creating the dataset...
+2018-03-15 18:06:38,294:INFO: - done.
+2018-03-15 18:06:38,568:INFO: Starting evaluation
+2018-03-15 18:07:03,917:INFO: - Eval metrics : accuracy: 0.892 ; loss: 0.546
