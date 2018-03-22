@@ -264,7 +264,7 @@ def preprocess_track_for_classification(path_to_song, output_dir):
     # Clear all temporary data folder first; This ensures you don't mix spectrograms
     # different songs
 
-    #  output_dir = "data/128x128_specs/tmp_specs"
+#     output_dir = "data/128x128_specs/tmp_specs"
     tmp_test_folder = "test_songs/"
 
     if os.path.exists(output_dir):
